@@ -1,6 +1,6 @@
 <h2 align="left">Hi, Geisiane here 👋</h2>
 
-- 👩‍💻 I'm currently working at **Dasa**
+/* - 👩‍💻 I'm currently working at  */
 
 <h4 align="left">Connect with me:</h4>
 
